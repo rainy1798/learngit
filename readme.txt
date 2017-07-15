@@ -1,1 +1,1 @@
-git is a version control systtem
+git is a version control system
